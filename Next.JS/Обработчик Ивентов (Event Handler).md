@@ -1,0 +1,1 @@
+Источник: https://react.dev/learn/responding-to-events
